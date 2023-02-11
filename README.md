@@ -3,4 +3,5 @@ This repo is about mini projects based HTML, CSS and JavaScript. There are many 
 
 Here is the list of all projects.....
 1.BMI calcuator.
-2.
+2.Button ripple effect.
+3.Background Hover effect.
