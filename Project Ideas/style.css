@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Alkatra', cursive;
+}
+
+body {
+    position: relative;
+    text-align: center;
+    color: black;
+    background: #3498DB;
+}
+
+h1 {
+    display: block;
+    text-align: center;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 35px;
+}
+
+.fa-code {
+    font-weight: bolder;
+    color: white;
+    font-size: 30px;
+}
+
+.title {
+    display: block;
+    font-family: 'Alkatra', cursive;
+    text-align: center;
+    font-weight: 600;
+    color: white;
+    font-size: 54px;
+    padding: 26px 0;
+}
+
+#generate-project {
+    padding: 15px 40px;
+    background-color: none;
+    border: 3px solid white;
+    border-radius: 10px;
+    font-size: 24px;
+    cursor: pointer;
+    background: none;
+    transition: all 0.3s ease;
+}
+
+#generate-project:hover {
+  background: white;
+}
+
+#new-project{
+    margin-top: 20px;
+    font-size: 44px;
+}
+#new-project a{
+   text-decoration: none;
+   color:white;
+}
+#project-generation{
+    font-size: 50px;
+}
+#project-generation span{
+    margin-top:70px;
+}
